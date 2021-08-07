@@ -40,5 +40,5 @@ If You are Mobile User The Click Listen In Mobile Button 😊
 
 ![App Screenshot](https://github.com/abidhasannir/ahnlivefm/blob/main/ScreenShot.jpg)
 
-![App Screenshot](https://github.com/abidhasannir/ahnlivefm/blob/main/ScreenShot1.jpg)
+![App Screenshot](https://github.com/abidhasannir/ahnlivefm/blob/main/Screenshot1.jpg)
   
